@@ -1,4 +1,4 @@
-https://www.pinterest.com/pin/coding-animations--126663808259169690/
+
 <h1 align="center">Hi 👋, I'm Naveenthiran M U</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/coding-animations--126663808259169690/.gif">
