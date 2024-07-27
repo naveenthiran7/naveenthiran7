@@ -23,7 +23,7 @@
   
 <a href="https://instagram.com/naveenthiran__photography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveenthiran__photography" height="30" width="40" /></a>
 
-<a href="https://instagram.com/naveenthiran__photography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Naveenthiran M U" height="30" width="40" /></a>
+<a href="https://linkedin.com/Naveenthiran M U" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Naveenthiran M U" height="30" width="40" /></a>
 
 
 
