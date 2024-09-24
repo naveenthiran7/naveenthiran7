@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **HTML**
+- 🔭 I’m currently working on **React **
 
-- 🌱 I’m currently learning **React Angular**
+- 🌱 I’m currently learning **React & Angular**
 
 - 👯 I’m looking to collaborate on **React js**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **React**
 
 - 📫 How to reach me **naveenthiran.mu@gmail.com**
 
